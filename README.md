@@ -1,4 +1,7 @@
-# CaptureImages
+# Capture Multiple Images 
+
+Kindly fork this repository.
+
 This contains script for capturing images continuously (about 500 images in 20 seconds).
 
 This was needed for our capstone project for training face recognition model with good accuracy.
